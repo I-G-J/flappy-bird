@@ -58,5 +58,5 @@ If you have any questions or suggestions, feel free to reach out:
 
 GitHub: yourusername
 
-Email: your.email@example.com
+Email: gyanjyoti62436@gmail.com
 
