@@ -10,9 +10,9 @@ In this game, the player controls a bird that must fly between columns of pipes 
 
 ## 📸 Screenshots
 
-*(Add screenshots of your game here)*
 
----
+
+
 
 ## 🚀 Features
 
